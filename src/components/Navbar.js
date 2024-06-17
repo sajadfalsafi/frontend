@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
-import { AppBar, Toolbar, Typography, Button, Box, Container, Menu, MenuItem } from '@mui/material';
+import { AppBar, Toolbar, Button, Box, Container, Menu, MenuItem } from '@mui/material';
 import ContactForm from './ContactForm';
 import Logo from './Logo';
 
